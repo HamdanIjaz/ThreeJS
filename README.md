@@ -141,3 +141,24 @@ Helping link: https://www.shadertoy.com/
 •	Baking and Importing scenes
 •	Performance Tips
 
+# Related helping Links
+(https://www.w3schools.com/html/)
+(https://www.w3schools.com/css/)
+(https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+(https://developer.mozilla.org/en-US/docs/Learn/CSS)
+(https://www.freecodecamp.org/news/how-to-build-a-responsive-website-with-bootstrap/)
+(https://gitexercises.fracz.com/exercise/master)
+(https://learngitbranching.js.org/)
+(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+(https://eloquentjavascript.net/)
+(https://www.w3schools.com/js/js_array_methods.asp)
+(https://threejs.org/docs/index.html)
+(https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+(https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+(https://www.shadertoy.com/)
+(https://thebookofshaders.com/01/)
+(https://threejsfundamentals.org/threejs/lessons/threejs-shadertoy.html)
+(https://wwwtyro.github.io/galaxy-generator/)
+(https://threejs.org/examples/#webgl_physics_cloth)
+(https://threejs.org/examples/#webgl_realistic_human)
+(https://threejsfundamentals.org/threejs/lessons/threejs-tips.html)
