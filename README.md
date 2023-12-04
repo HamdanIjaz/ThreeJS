@@ -158,7 +158,6 @@ Helping link: https://www.shadertoy.com/
 (https://www.shadertoy.com/)
 (https://thebookofshaders.com/01/)
 (https://threejsfundamentals.org/threejs/lessons/threejs-shadertoy.html)
-(https://wwwtyro.github.io/galaxy-generator/)
 (https://threejs.org/examples/#webgl_physics_cloth)
 (https://threejs.org/examples/#webgl_realistic_human)
 (https://threejsfundamentals.org/threejs/lessons/threejs-tips.html)
