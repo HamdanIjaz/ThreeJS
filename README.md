@@ -19,12 +19,12 @@ Reference Book for JavaScript: Eloquent JavaScript
 ●	Variables
 ●	Data Types
 ●	Conditional Statements
-○	if else
+●	if else
 	○	switch
 	○	ternary
 ●	Loops
-○	While
-○	for
+●	While
+●	for
 	○	for of
 	○	for in
 ●	Comparison Operators
